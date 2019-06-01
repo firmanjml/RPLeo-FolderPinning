@@ -1,0 +1,12 @@
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\RP-FolderPinning.csproj.CoreCompileInputs.cache
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\bin\Debug\RP-FolderPinning.exe.config
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\bin\Debug\RP-FolderPinning.exe
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\bin\Debug\RP-FolderPinning.pdb
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\bin\Debug\Newtonsoft.Json.xml
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\RP-FolderPinning.csproj.CopyComplete
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\RP-FolderPinning.exe
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\RP-FolderPinning.pdb
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\RP-FolderPinning.csproj.ResolveComReference.cache
+C:\Users\17044634\source\repos\RP-FolderPinning\RP-FolderPinning\obj\Debug\RP-FolderPinning.csprojAssemblyReference.cache
