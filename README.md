@@ -1,12 +1,18 @@
 # RPLeo-FolderPinning
 
-### Installation & Program configuration
+## What is this for?
+This Program allows you to pin your class folder automatically base on the calendar data that was published in LEO to your taskbar everytime you start up your pc.
+
+The calendar data must be retrieved manually from L.E.O via RetrieveEvents post request in Calendar.
+
+## Installation & Program configuration
 
 RPLeo-FolderPinning requires [Syspin.exe](http://www.technosys.net/products/utils/pintotaskbar) to run.
 
 Download the program and place it in the same directory where the program is.
 
-Make config.json and put it in the same directory where the program is.
+Make config.json and put it in the same directory.
+
 Example of the config.json can be found below.
 ```sh
 {
@@ -53,8 +59,6 @@ Example of the config.json can be found below.
   "verbose_sleep_time": 3
 }
 ````
-
-
 
 ### Attributes of the configuration
 | Key | Type | Info | Mandatory
