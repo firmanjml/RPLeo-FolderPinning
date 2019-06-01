@@ -64,3 +64,10 @@ Example of the config.json can be found below.
 | folder_dir | String | The directory of your lessons folder | true
 | verbose | Boolean | Show more more information | true
 | verbose_sleep_time | Integer | Delay of verbose mode | true
+
+
+### Folder structuring
+Example of how your directory of your module should look like
+![alt text](https://i.imgur.com/TQOMwQc.jpg)
+Alternatively, you can just name the folders as the Module Code.
+The program will automatically create a short cut of the folder with the Module Code given.
